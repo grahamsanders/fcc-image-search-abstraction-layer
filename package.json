@@ -1,0 +1,26 @@
+{
+  "name": "fcc-image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "freeCodeCamp image search abstraction layer project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamsanders/fcc-image-search-abstraction-layer.git"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "Graham Sanders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grahamsanders/fcc-image-search-abstraction-layer/issues"
+  },
+  "homepage": "https://github.com/grahamsanders/fcc-image-search-abstraction-layer#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "googleapis": "^20.1.0",
+  }
+}
