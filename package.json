@@ -22,5 +22,6 @@
   "dependencies": {
     "express": "^4.15.3",
     "googleapis": "^20.1.0",
+    "mongo": "^0.1.0"
   }
 }
